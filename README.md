@@ -38,9 +38,8 @@
 ### Toque Arrepiante
 <img src="magias_truques/cantrip_toque_arrepiante.png">
 
-### Ilusão menor
+### Ilusao Menor
 <img src="magias_truques/cantrip-ilusao_menor.png">
-
 
 
 </details>
