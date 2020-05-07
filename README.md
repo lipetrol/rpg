@@ -1,5 +1,5 @@
 <details>
-<summary>## Mago </summary>
+<summary><h1> Mago </h1></summary>
 
 <img src="mago/cmago.png">
 
@@ -13,7 +13,7 @@
 ---
 
 <details>
-<summary>## Gnomo da Floresta </summary>
+<summary><h1> Gnomo da Floresta </h1></summary>
 
 <img src="raca/g1.png">
 
@@ -24,7 +24,7 @@
 ---
 
 <details>
-<summary>## Cantrip </summary>
+<summary><h1> Cantrip </h1></summary>
 
 ### Espirro Ácido
 <img src="magias_truques/cantrip_espirro_ácido.png">
@@ -39,7 +39,7 @@
 <img src="magias_truques/cantrip_toque_arrepiante.png">
 
 ### Ilusão menor
-<img src="magias_truques/cantrip-illusao_menor.png">
+<img src="magias_truques/cantrip-ilusao_menor.png">
 
 
 
@@ -48,7 +48,7 @@
 ---
 
 <details>
-<summary>## Magias </summary>
+<summary><h1>Magias </h1></summary>
 
 ## 1
 
@@ -71,7 +71,7 @@
 <img src="magias_truques/magia_detectar_magia.png">
 
 ### Identificacao
-<img src="magias_truques/identificacao.png">
+<img src="magias_truques/indetificacao.png">
 
 ### Escudo Arcano
 <img src="magias_truques/escudo_arcano.png">
@@ -140,7 +140,7 @@
 ---
 
 <details>
-<summary> ## Wand</summary>
+<summary><h1> Wand </h1></summary>
 <img src="wand of entangle.png">
 
 <img src="constricao.png">
