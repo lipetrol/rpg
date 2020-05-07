@@ -139,10 +139,16 @@
 ---
 
 <details>
-<summary><h1> Wand </h1></summary>
+<summary><h1> Equipamentos </h1></summary>
+
+### Wand 
 <img src="wand of entangle.png">
 
 <img src="constricao.png">
+
+### Adaga e pacote de explorador
+
+<img src="adaga.png">
 
 </details>
 
