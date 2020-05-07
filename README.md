@@ -1,3 +1,6 @@
+(Ficha)[mago.pdf]
+
+
 <details>
 <summary><h1> Mago </h1></summary>
 
