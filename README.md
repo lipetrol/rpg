@@ -1,4 +1,4 @@
-(Ficha)[mago.pdf]
+[Ficha](mago.pdf)
 
 
 <details>
