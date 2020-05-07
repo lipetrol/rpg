@@ -1,4 +1,4 @@
-<h1>[Ficha](mago.pdf)</h1>
+[Ficha](mago.pdf)
 
 
 <details>
