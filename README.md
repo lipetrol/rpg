@@ -6,13 +6,14 @@
 
 <img src="mago/cmago.png">
 
+<img src="mago/cd.png">
+
 <img src="mago/m1.png">
 
 <img src="mago/m2.png">
 
 <img src="mago/evocacao.png">
 
-<img src="mago/cd.png">
 </details>
 
 ---
