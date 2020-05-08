@@ -11,6 +11,8 @@
 <img src="mago/m2.png">
 
 <img src="mago/evocacao.png">
+
+<img src="mago/cd.png">
 </details>
 
 ---
